@@ -1,0 +1,77 @@
+Copyright Certificate
+
+This document certifies the authorship and copyright ownership
+of the software described below.
+
+------------------------------------------------------------
+1. Title of the Work
+------------------------------------------------------------
+Attendance and Payroll Management Application (Demo / Portfolio Version)
+
+------------------------------------------------------------
+2. Type of Work
+------------------------------------------------------------
+Computer Software (Application Program)
+
+------------------------------------------------------------
+3. Authors (Copyright Holders)
+------------------------------------------------------------
+- 牟田 歩夢 (Ayumu Muta)
+- 相浦 裕太 (Yuta Aiura)
+
+------------------------------------------------------------
+4. Creation Period
+------------------------------------------------------------
+2025 – 2026
+
+------------------------------------------------------------
+5. Description of the Work
+------------------------------------------------------------
+This software is an attendance and payroll management application
+designed for small retail businesses.
+
+Its main features include:
+- Attendance check-in and check-out
+- Break and meal tracking
+- Monthly payroll calculation
+- CSV (Excel-compatible) export
+
+This software was developed as a practical project and is currently
+published as a demo / portfolio version.
+No real shop data, personal information, or salary records are included.
+
+------------------------------------------------------------
+6. Copyright Ownership
+------------------------------------------------------------
+Copyright © 2026
+牟田 歩夢 and 相浦 裕太
+
+All rights are reserved by the authors.
+
+------------------------------------------------------------
+7. License and Usage
+------------------------------------------------------------
+This software is NOT open source.
+
+It is publicly available for individual evaluation and non-commercial use only.
+Commercial use, corporate use, redistribution, or modification requires
+prior written permission from the authors.
+
+------------------------------------------------------------
+8. Publication Status
+------------------------------------------------------------
+The source code is publicly available on GitHub
+for academic, evaluation, and portfolio purposes.
+
+------------------------------------------------------------
+9. Date of Issue
+------------------------------------------------------------
+Issued on: 2026-01-17
+
+------------------------------------------------------------
+10. Signatures
+------------------------------------------------------------
+
+Author: 牟田 歩夢
+
+Author: 相浦 裕太
