@@ -1,7 +1,5 @@
-Copyright © 2026 Midori Iida. All rights reserved.
+Copyright © 2026 Ayumu Muta. All rights reserved.
 
-This software is publicly available for individual evaluation and
-non-commercial use only.
-
-Commercial use, corporate use, redistribution, or modification
-requires prior written permission from the author.
+This software is provided for personal, educational, and evaluation purposes only.
+Commercial use, corporate use, redistribution, or modification is not permitted
+without prior written permission from the author.
